@@ -1,0 +1,25 @@
+{
+	"title" : "Pengalaman",
+	"experience" : [
+		{
+			"timeperiod" : "Jan 2016 - Jul 2016",
+			"company" : "Cafe Pappyrus",
+			"description" : "Setelah lulus Sekolah Menengah Pertama (SMP), saya berkerja di cafe papyrus, dan di tempatkan di bagian weaters.",
+			"alamat" : "Jl. Joglo Raya No. 11 B, Joglo - Kembangan, RT.7/RW.1, Joglo, Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11640"
+		}
+		,
+		{
+			"timeperiod" : "Jan 2018 - Feb 2018",
+			"company" : "Geges Komputer",
+			"description" : "PKL di Geges komputer selama 2 bulan dan sempat Kerja Part-Time(paruh waktu) selama 2 minggu.",
+			"alamat" : "Jl. Raya Pangeran Sutajaya Jl. Pabuaran Lor No.22, Pabuaran Lor, Kec. Pabuaran, Cirebon, Jawa Barat 45188"
+		}
+		,
+		{
+			"timeperiod" : "Agust 2019 - Oct 2019",
+			"company" : "PT. Alexindo",
+			"description" : "Magang di PT. Alexindo selama 2 bulan dan di tempatkan di bagian Packing",
+			"alamat" :"Jl. Permai Raya, Cikampek Pusaka, Cikampek, Kabupaten Karawang, Jawa Barat 41373, Indonesia."
+		}
+	]
+}

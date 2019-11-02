@@ -1,0 +1,10 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Administrasi Sistem Jaringan" : "60",
+		"Teknik Layanan Jaringan" : "50",
+		"Administrasi Infrastruktur Jaringan" : "44",
+		"Microsoft Office" : "60",
+		"Web Developer"	: "34"
+	}
+}
